@@ -1,6 +1,6 @@
 # 考研教育官网  edu-website
 
-体验地址：https://website-iota-liard.vercel.app
+体验地址：https://www.zyedus.com/
 
 考研教育官网是一个基于React、swript、antd、webpack等技术构建的网站。
 ## 技术栈
